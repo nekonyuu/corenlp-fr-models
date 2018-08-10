@@ -50,9 +50,6 @@
                                 <includes>
                                     <include>edu.stanford.nlp:stanford-corenlp:jar:models-french</include>
                                 </includes>
-                                <!--<excludes>-->
-                                    <!--<exclude>*:*</exclude>-->
-                                <!--</excludes>-->
                             </artifactSet>
                             <filters>
                                 <filter>
